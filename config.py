@@ -1,0 +1,2 @@
+PROXY               = None # 'http://KEHTaC:FaeUDYsEK1ed@fproxy.site:16497' # что бы не использовать прокси - оставьте None
+CHANGE_IP_LINK      = 'https://changeip.mobileproxy.space/?proxy_key=12345&format=json'
